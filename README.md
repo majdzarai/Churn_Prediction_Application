@@ -10,15 +10,6 @@ This project is a **Churn Prediction Application** that helps businesses predict
 - **Confusion Matrix & ROC Curve** for model performance insights
 - **User-friendly sliders & radio buttons** for smooth data entry
 
-## 📹 Demo Video
-### Watch the demo below:
-```python
-import streamlit as st
-
-video_path = "C:/Users/majdz/OneDrive/Desktop/churn prediction model.mp4"
-st.video(video_path)
-```
-
 ## 📌 Installation
 1. Clone the repository:
    ```bash
@@ -54,7 +45,7 @@ st.video(video_path)
 Feel free to fork this repository and improve the project. Contributions are welcome! 💡
 
 ## 📝 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **Esprit License**.
 
 ---
 🚀 **Let’s revolutionize customer retention with AI!** 🚀
